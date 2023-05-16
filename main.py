@@ -1,4 +1,4 @@
-from math_function import add
+from math_function import add,mul,div
 
 
 def main():
